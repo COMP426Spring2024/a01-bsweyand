@@ -25,10 +25,13 @@ body {
   font-family: "papyrus", fantasy;
 }
 
+div img {
+  padding-bottom: 20px;
+}
+
 h1 {
   text-align: center;
   font-size: 100px;
-  padding-bottom: -20px;
   padding-top: 50px;
 }
 
